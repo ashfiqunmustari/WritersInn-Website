@@ -1,0 +1,117 @@
+*{ margin:0; padding:0; box-sizing:border-box; font-family: 'Archivo', sans-serif; }
+	a{text-decoration:none;}
+	a:hover{
+		text-decoration:none;
+		
+	}
+	li{list-style: none;}
+
+
+.bgimg{
+	width: 100%;
+	height: 320px;
+	background-image: url('../Images/Home_header1.jpg');
+	background-size: 100% 100%;
+	background-attachment:fixed;
+
+}
+.headerset{
+	padding-top:200px;
+	box-sizing:border-box;
+
+}
+.headerset h1{
+	font-size:42px;
+	font-weight:bold;
+	padding-bottom:30px!IMPORTANT;
+}
+
+
+.header-extradiv{
+	width:100%;
+	height:auto;
+	margin: 100px 0;
+	text-align:center;
+	padding-top:30px !IMPORTANT;
+}
+.extra-div{
+	position:relative;
+	background:#FFF;
+	border: medium none;
+	padding:100px 40px 60px!important;
+	border-radius:3px;
+	transition: 0.3s;
+	box-sizing=border-box;
+	box-shadow: 0 15px 45px rgba(0,0,0,.1);
+	width=320px;
+}
+.extra-div h1{
+	font-size: 2rem;
+	margin:10px 0 15px 0;
+	font-weight: bold;
+	line-height:1.1;
+	word-spacing:4px;
+	color:#008494;
+}
+
+.extra-div h4{
+	font-size: 1rem;
+	margin:10px 0 15px 0;
+	font-weight: bold;
+	line-height:1.1;
+	word-spacing:4px;
+	color:#D85678;
+	text-align:center;
+}
+
+.extra-div:hover{
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translateY(-20px);
+	background-color:#add8e6;
+}
+
+  .box-1 a{
+    text-decoration: none; 
+    background-color: #008494;
+    color: rgb(255, 255, 255);
+    padding: 30px 30px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-weight: 600;
+	font-size:1.5rem;
+    margin-bottom: 3rem;
+    font-family: 'Libre Franklin', sans-serif;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+  
+  .row{
+    display: flex;
+    height: 80%;
+    align-items: center;
+}
+.col{
+    flex-basis: 90%;
+    color: #fff;
+}
+
+.col p{
+
+     text-align: center;
+     font-family: 'Jost', sans-serif;
+    font-size: 26px;
+    line-height: 2;
+    font-weight: lighter;
+}
+  .col h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight:bold;
+    background-color: #66666694;
+    padding: 0.5rem;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+

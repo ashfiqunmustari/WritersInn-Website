@@ -1,0 +1,25 @@
+*{ margin:0; padding:0; box-sizing:border-box; font-family: 'Archivo', sans-serif; }
+	a{text-decoration:none;}
+	a:hover{
+		text-decoration:none;
+		
+	}
+	li{list-style: none;}
+	.body{
+	background:black;
+}
+
+.navbar{
+	content: "";
+	position: absolute;
+	top: 0%;
+	bottom:0%;
+	left:0%;
+	right:0%;
+	opacity: .8;
+	background: #000000;
+}
+.nav-item a{
+	color: #FFF;
+	font-weight:bold;
+}
