@@ -24,7 +24,10 @@ WritersInn is a user-friendly website designed to provide content writing servic
    - Private pages are restricted to authenticated users only.
 
 ---
+##**Use Case for Users**
+![Use Case for Users](https://github.com/ashfiqunmustari/WritersInn-Website/blob/main/Use-Case-for-Users.png)
 
+---
 ## **Technologies Used**  
 
 ### **Frontend**:  
